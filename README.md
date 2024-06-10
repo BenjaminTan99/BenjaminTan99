@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @BenjaminTan99
-- 👀 I’m interested in gaming, computer security, game development, sports.
-- 🌱 I’m currently learning Computer Science.
-- 💞️ I’m looking to collaborate on any game development or computer security related projects in the future.
-- 📫 How to reach me ...
+- 👀 I’m interested in AI and proficient in Python, C++, Java.
+- 💞️ I’m looking to work on any software engineering project.
+- 📫 How to reach me: Email - benjamin.tan.chin.han@gmail.com or [LinkedIn](https://www.linkedin.com/in/benjamin-tan-2b441722b/)
 
 <!---
 BenjaminTan99/BenjaminTan99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
